@@ -1,9 +1,6 @@
-class BulletJournal:
-
+class Collection:
 
     def __init__(self):
-
-    def collection(self):
         self.title
         self.page_number
         self.divisions
@@ -13,3 +10,5 @@ class BulletJournal:
     def future_log(self):
 
     def monthly_log(self):
+
+    def index(self):
